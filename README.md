@@ -1,12 +1,6 @@
 # 💫 About Me
 ### Hi, I'm **Shamy Budhathoki**! 👋
 
-Software Engineer passionate about **AI, computer vision, and modern web development**. I enjoy building interactive web apps, AI projects, and creative 3D experiences.
-
-- 🔭 **Current Focus:** AsanaMitra – AI yoga pose detection system
-- 🌱 **Learning:** Machine learning, computer vision, and 3D web experiences 
-- 💬 **Ask me about:** Python, Django, or anything related to Data Science.
-
 ---
 
 # 💻 Tech Stack
