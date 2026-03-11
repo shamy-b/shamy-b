@@ -1,12 +1,11 @@
 # 💫 About Me
 ### Hi, I'm **Shamy Budhathoki**! 👋
 
-I am a versatile Developer with a deep interest in **Machine Learning**, **Full-Stack Web Development**, and **Cloud Computing**. I enjoy bridging the gap between complex data science models and scalable web applications.
+Software Engineer passionate about **AI, computer vision, and modern web development**. I enjoy building interactive web apps, AI projects, and creative 3D experiences.
 
-- 🔭 **Current Focus:** Building robust applications with .NET and React.
-- 🌱 **Learning:** Deepening my knowledge in Computer Vision and Web3.
+- 🔭 **Current Focus:** AsanaMitra – AI yoga pose detection system
+- 🌱 **Learning:** Machine learning, computer vision, and 3D web experiences 
 - 💬 **Ask me about:** Python, Django, or anything related to Data Science.
-- 📫 **Connect with me:** [LinkedIn](your-link-here) | [Portfolio](your-link-here)
 
 ---
 
@@ -26,14 +25,3 @@ I am a versatile Developer with a deep interest in **Machine Learning**, **Full-
 
 ---
 
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamy-b&show_icons=true&theme=radical" alt="Shamy's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamy-b&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-# 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shamy-b&theme=github-compact)
