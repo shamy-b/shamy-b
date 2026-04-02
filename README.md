@@ -3,7 +3,7 @@
 
 I'm a Software Engineer and AI Developer with a strong focus on Computer Vision and interactive web experiences. I specialize in developing real-time computer vision systems and high-performance backend APIs, with a passion for creating seamless, AI-driven user experiences. 
 
-- 🔭 **Currently working on:** Freelance AI development and building computer vision applications (facial landmark tracking, body pose extraction).
+- 🔭 **Currently working:** Freelance AI development and building computer vision applications (facial landmark tracking, body pose extraction).
 - 🌱 **Currently exploring:** Advanced 3D web design using Three.js and learning different computer vision model types.
 - 👯 **Looking to collaborate on:** Open-source AI/ML projects, specifically using TensorFlow, PyTorch, YOLO, or MediaPipe.
 
