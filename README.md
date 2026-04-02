@@ -1,6 +1,20 @@
 # 💫 About Me
 ### Hi, I'm **Shamy Budhathoki**! 👋
 
+I'm a Software Engineer and AI Developer with a strong focus on Computer Vision and interactive web experiences. I specialize in developing real-time computer vision systems and high-performance backend APIs, with a passion for creating seamless, AI-driven user experiences. 
+
+- 🔭 **Currently working on:** Freelance AI development and building computer vision applications (facial landmark tracking, body pose extraction).
+- 🌱 **Currently exploring:** Advanced 3D web design using Three.js and learning different computer vision model types.
+- 👯 **Looking to collaborate on:** Open-source AI/ML projects, specifically using TensorFlow, PyTorch, YOLO, or MediaPipe.
+
+---
+
+# 🚀 Featured Projects
+
+* **AsanaMitra:** A real-time yoga pose detection system utilizing advanced body landmark extraction to correct user posture.
+* **Driver Drowsiness Detection:** A computer vision application using facial landmark detection to track eye and mouth aspect ratios for road safety.
+* **Car Price Prediction System:** A machine learning regression model designed to accurately estimate vehicle prices based on historical market data, specifications, and automotive features.
+
 ---
 
 # 💻 Tech Stack
