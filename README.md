@@ -9,6 +9,52 @@ I'm a **Software Engineer and AI Developer** based in Kathmandu, Nepal, with a s
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧘 AsanaMitra</h3>
+      <p>Real-time yoga pose detection system using advanced body landmark extraction to analyze and correct user posture with instant visual feedback.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>😴 Driver Drowsiness Detection</h3>
+      <p>Computer vision application using facial landmark detection to track eye and mouth aspect ratios in real time, improving road safety.</p>
+      <p>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/dlib-008000?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 Car Price Prediction</h3>
+      <p>ML regression model to accurately estimate vehicle prices based on historical market data, specifications, and automotive features.</p>
+      <p>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✨ More coming soon...</h3>
+      <p>Currently working on new projects. Watch this space or check my repositories for the latest work.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 💻 Tech Stack
 
 ### 🌐 Web Development
