@@ -1,20 +1,20 @@
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Software Engineer and AI Developer** based in Kathmandu, Nepal, with a strong focus on **Computer Vision** and interactive web experiences. I specialize in developing real-time computer vision systems and high-performance backend APIs, with a passion for creating seamless, AI-driven user experiences.
+I'm a **Software Engineer and AI Developer** based in Kathmandu, Nepal, with a strong focus on **Computer Vision** and interactive web experiences. I specialize in developing real-time computer vision applications and crafting seamless digital experiences.
 
-- 🔭 **Currently:** Freelance AI development — building computer vision apps (facial landmark tracking, body pose extraction)
-- 🌱 **Exploring:** Advanced 3D web with Three.js and new computer vision model architectures
-- 👯 **Looking to collaborate on:** Open-source AI/ML projects using TensorFlow, PyTorch, YOLO, or MediaPipe
-- ⚡ **Fun fact:** I debug computer vision models by staring at them until they feel uncomfortable
+- **Currently:** Freelance AI development — building computer vision apps (facial landmark tracking, body pose extraction)
+- **Exploring:** Advanced 3D web with Three.js and new computer vision model architectures
+- **Looking to collaborate on:** Open-source AI/ML projects using TensorFlow, PyTorch, YOLO, or MediaPipe
+- **Fun fact:** I debug computer vision models by staring at them until they feel uncomfortable
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧘 AsanaMitra</h3>
+      <h3>AsanaMitra</h3>
       <p>Real-time yoga pose detection system using advanced body landmark extraction to analyze and correct user posture with instant visual feedback.</p>
       <p>
         <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
@@ -23,7 +23,7 @@ I'm a **Software Engineer and AI Developer** based in Kathmandu, Nepal, with a s
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>😴 Driver Drowsiness Detection</h3>
+      <h3>Driver Drowsiness Detection</h3>
       <p>Computer vision application using facial landmark detection to track eye and mouth aspect ratios in real time, improving road safety.</p>
       <p>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
@@ -34,7 +34,7 @@ I'm a **Software Engineer and AI Developer** based in Kathmandu, Nepal, with a s
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚗 Car Price Prediction</h3>
+      <h3>Car Price Prediction</h3>
       <p>ML regression model to accurately estimate vehicle prices based on historical market data, specifications, and automotive features.</p>
       <p>
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
@@ -43,7 +43,7 @@ I'm a **Software Engineer and AI Developer** based in Kathmandu, Nepal, with a s
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>✨ More coming soon...</h3>
+      <h3>More Coming Soon</h3>
       <p>Actively developing new projects. Stay tuned here or explore my repositories to discover the latest work and ongoing updates in progress.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -55,9 +55,9 @@ I'm a **Software Engineer and AI Developer** based in Kathmandu, Nepal, with a s
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 🌐 Web Development
+### Web Development
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -67,7 +67,7 @@ I'm a **Software Engineer and AI Developer** based in Kathmandu, Nepal, with a s
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
 
-### 🤖 AI / ML / Computer Vision
+### AI / ML / Computer Vision
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
@@ -77,7 +77,7 @@ I'm a **Software Engineer and AI Developer** based in Kathmandu, Nepal, with a s
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 
-### 🗄️ Cloud & Databases
+### Cloud & Databases
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -86,7 +86,7 @@ I'm a **Software Engineer and AI Developer** based in Kathmandu, Nepal, with a s
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 
-### 🛠️ Tools & Languages
+### Tools & Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
