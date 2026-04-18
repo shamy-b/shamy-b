@@ -44,7 +44,7 @@ I'm a **Software Engineer and AI Developer** based in Kathmandu, Nepal, with a s
     </td>
     <td width="50%" valign="top">
       <h3>✨ More coming soon...</h3>
-      <p>Currently working on new projects. Watch this space or check my repositories for the latest work.</p>
+      <p>Actively developing new projects. Stay tuned here or explore my repositories to discover the latest work and ongoing updates.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
