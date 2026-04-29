@@ -33,15 +33,17 @@ I'm a **Software Engineer and AI Developer** based in Kathmandu, Nepal, with a s
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Car Price Prediction</h3>
-      <p>ML regression model to accurately estimate vehicle prices based on historical market data, specifications, and automotive features.</p>
-      <p>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      </p>
-    </td>
+    <tr>
+  <td width="50%" valign="top">
+    <h3>CrudeVision</h3>
+    <p>Deep learning-based time series forecasting system for crude oil (WTI) prices using a stacked LSTM model and technical indicators to analyze market trends and generate short-term forecasts.</p>
+    <p>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    </p>
+  </td>
     <td width="50%" valign="top">
       <h3>More Coming Soon...</h3>
       <p>Actively developing new projects. Stay tuned here or explore my repositories to discover the latest work and ongoing updates in progress.</p>
