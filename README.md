@@ -36,7 +36,7 @@ I'm a **Software Engineer and AI Developer** based in Kathmandu, Nepal, with a s
     <tr>
   <td width="50%" valign="top">
     <h3>CrudeVision</h3>
-    <p>Deep learning-based time series forecasting system for crude oil prices using a stacked LSTM model and technical indicators to analyze market trends and generate short-term forecasts.</p>
+    <<p>LSTM-based crude oil price forecasting system using technical indicators to analyze trends and generate short-term predictions.</p>
     <p>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
       <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
